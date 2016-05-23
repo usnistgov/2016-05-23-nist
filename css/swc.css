@@ -13,6 +13,11 @@
     width: 500px;
 }
 
+.pipelistBold {
+    overflow: hidden;
+    width: 550px;
+}
+
 /* Card is used only at lessons */
 div.container.card {
 	background-color: white;
